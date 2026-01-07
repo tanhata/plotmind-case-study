@@ -147,7 +147,7 @@ const PlotMindCaseStudy = () => {
       <header style={{ padding: '14px 32px', borderBottom: `1px solid ${colors.gray[200]}`, position: 'sticky', top: 0, background: 'rgba(255,255,255,0.95)', backdropFilter: 'blur(10px)', zIndex: 100 }}>
         <div style={{ maxWidth: '1200px', margin: '0 auto', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
           <div style={{ fontSize: '13px', color: colors.gray[500] }}>Portfolio / PlotMind</div>
-          <div style={{ fontSize: '12px', color: colors.gray[400] }}>Q2 2024 · 12 weeks</div>
+          <div style={{ fontSize: '12px', color: colors.gray[400] }}>Q2 2025 · 12 weeks</div>
         </div>
       </header>
 
